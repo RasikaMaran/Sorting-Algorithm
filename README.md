@@ -66,6 +66,7 @@ print(value)
 ## Output:
 1.Program to sort the elements in the list using the Selection Sort algorithm.
 ![output](88.png)
+
 2.Program to sort the elements in the list using the Insertion Sort algorithm.
 ![output](99.png)
 
